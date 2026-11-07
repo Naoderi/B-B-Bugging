@@ -1,0 +1,5 @@
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==26.0.0
+httpx==0.28.1
+yfinance==1.7.0
