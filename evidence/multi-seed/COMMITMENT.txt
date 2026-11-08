@@ -1,0 +1,3 @@
+bf07537455d06c6c816073a16c5073568912b4fd777b7bc006552d087e81e411
+committed 2026-11-08T00:39:13+00:00
+rules {"adopted": "campus-ro-1.1", "files": {"backtest.py": "3f57dc693cfce5b6dd9e11e0ed3984811cf051638f9567b9dd3fa54e24d8068a", "backtest_seeds.py": "a7b08d337a996736fa555e9ad41540985f88a0d1a2d7d950c0d7e063e5caef02", "market.py": "eb9a67fb97e0fb7e296d3cee24f13610cf874a18837226ce224be3df48490714", "strategy.py": "a27dd913285043eda8e6f90a1d5ad82055813f6f973a447976b014e0a60bf284"}, "versions": {"campus-ro-1.0": 0.005, "campus-ro-1.1": 0.04}}
