@@ -1,0 +1,2 @@
+# Optional: only needed for the Claude chatbot. ASI:One uses the standard library.
+anthropic==2.6.0

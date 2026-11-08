@@ -1,0 +1,6 @@
+# Optional. The website, offline coach and tests use only the standard library.
+# uagents: agents_app.py. anthropic: the Claude coach when ANTHROPIC_API_KEY is set.
+-r requirements-ai.txt
+uagents==0.26.1
+uagents-core==0.4.12
+certifi==2026.10.23

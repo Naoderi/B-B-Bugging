@@ -1,0 +1,105 @@
+{
+  "seeds": 30,
+  "medianExcess": -0.05165638023097152,
+  "excessIQR": [
+    -0.17129783747498295,
+    0.030181800256025126
+  ],
+  "returnWinRate": 0.3333333333333333,
+  "returnSignP": 0.09873714670538902,
+  "medianDrawdownReduction": 0.08721749021857966,
+  "drawdownIQR": [
+    0.05288458519084541,
+    0.10681391357318518
+  ],
+  "drawdownWinRate": 1.0,
+  "drawdownSignP": 1.862645149230957e-09,
+  "medianTurnover": 12.93241953851279,
+  "medianCostDrag": 0.021977431461332866,
+  "medianRoTotal": 0.09476865070389173,
+  "medianBalancedTotal": 0.16535890125775654,
+  "medianPolicyTotal": 0.13961020581266148,
+  "medianExcessPolicy": -0.027132948405026447,
+  "excessPolicyIQR": [
+    -0.10868485003027961,
+    0.032476780758090185
+  ],
+  "policyWinRate": 0.36666666666666664,
+  "policySignP": 0.20048842206597328,
+  "medianDrawdownVsPolicy": 0.06415814020482802,
+  "policyDrawdownWinRate": 1.0,
+  "compliance": 1.0,
+  "worstSeed": 415189168,
+  "adopted": "campus-ro-1.1",
+  "versions": {
+    "campus-ro-1.0": {
+      "seeds": 30,
+      "medianExcess": -0.06648275545573146,
+      "excessIQR": [
+        -0.17890337279169355,
+        0.04134704866310174
+      ],
+      "returnWinRate": 0.36666666666666664,
+      "returnSignP": 0.20048842206597328,
+      "medianDrawdownReduction": 0.0823162553773299,
+      "drawdownIQR": [
+        0.0489958513409601,
+        0.10566107089025706
+      ],
+      "drawdownWinRate": 1.0,
+      "drawdownSignP": 1.862645149230957e-09,
+      "medianTurnover": 19.66431975783283,
+      "medianCostDrag": 0.03169751239224901,
+      "medianRoTotal": 0.09293105190910622,
+      "medianBalancedTotal": 0.16535890125775654,
+      "medianPolicyTotal": 0.13961020581266148,
+      "medianExcessPolicy": -0.04063748044781412,
+      "excessPolicyIQR": [
+        -0.13857634542478137,
+        0.04310431892254524
+      ],
+      "policyWinRate": 0.36666666666666664,
+      "policySignP": 0.20048842206597328,
+      "medianDrawdownVsPolicy": 0.05819562853760207,
+      "policyDrawdownWinRate": 0.9333333333333333,
+      "compliance": 1.0,
+      "worstSeed": 415189168
+    },
+    "campus-ro-1.1": {
+      "seeds": 30,
+      "medianExcess": -0.05165638023097152,
+      "excessIQR": [
+        -0.17129783747498295,
+        0.030181800256025126
+      ],
+      "returnWinRate": 0.3333333333333333,
+      "returnSignP": 0.09873714670538902,
+      "medianDrawdownReduction": 0.08721749021857966,
+      "drawdownIQR": [
+        0.05288458519084541,
+        0.10681391357318518
+      ],
+      "drawdownWinRate": 1.0,
+      "drawdownSignP": 1.862645149230957e-09,
+      "medianTurnover": 12.93241953851279,
+      "medianCostDrag": 0.021977431461332866,
+      "medianRoTotal": 0.09476865070389173,
+      "medianBalancedTotal": 0.16535890125775654,
+      "medianPolicyTotal": 0.13961020581266148,
+      "medianExcessPolicy": -0.027132948405026447,
+      "excessPolicyIQR": [
+        -0.10868485003027961,
+        0.032476780758090185
+      ],
+      "policyWinRate": 0.36666666666666664,
+      "policySignP": 0.20048842206597328,
+      "medianDrawdownVsPolicy": 0.06415814020482802,
+      "policyDrawdownWinRate": 1.0,
+      "compliance": 1.0,
+      "worstSeed": 415189168
+    }
+  },
+  "n": 30,
+  "commitment": "bf07537455d06c6c816073a16c5073568912b4fd777b7bc006552d087e81e411",
+  "completed": "2026-11-08T00:39:46+00:00"
+}
